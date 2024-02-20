@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Form response</h1>
+        <p>${message}</p>
+        <a href="/form">Back to form</a>
+    </body>
+</html>

@@ -1,0 +1,5 @@
+GET
+Host: localhost:8080
+User-Agent: test/0.0
+Accept: */*
+

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Form</h1>
+        <form action="/form-response" method="post">
+            <input type="text" name="message" />
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
